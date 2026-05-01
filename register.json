@@ -22,6 +22,12 @@
       "public_safe": true
     },
     {
+      "name": "Elyria Systems — Dual-Gate Showcase",
+      "repo": "https://github.com/Kamanaka5502/elyria-dual-gate-showcase",
+      "role": "semantic integrity to execution-boundary proof surface connecting Gate A, Gate B, URK mapping, refusal, receipts, and replay",
+      "public_safe": true
+    },
+    {
       "name": "Elyria Systems — Boundary Patterns",
       "repo": "https://github.com/Kamanaka5502/elyria-boundary-patterns",
       "role": "buyer-facing boundary-pattern catalog for admissibility, authority, replay, standing, refusal, and explicit continuation",
