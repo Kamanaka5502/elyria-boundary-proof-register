@@ -26,6 +26,12 @@
       "repo": "https://github.com/Kamanaka5502/elyria-boundary-patterns",
       "role": "buyer-facing boundary-pattern catalog for admissibility, authority, replay, standing, refusal, and explicit continuation",
       "public_safe": true
+    },
+    {
+      "name": "Elyria Systems — One Proof Walkthrough",
+      "repo": "https://github.com/Kamanaka5502/elyria-one-proof",
+      "role": "deterministic single-path proof of boundary decision, receipt surface, and replay validation",
+      "public_safe": true
     }
   ],
   "public_forbidden_material": [
