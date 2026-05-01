@@ -10,6 +10,22 @@ It does not contain private runtime implementation, proprietary evaluators, prod
 
 The register gives buyers, reviewers, and partners a clean map of what has been proven publicly and where each proof surface lives.
 
+## What this is enough to show
+
+This public register is not the full engine.
+
+It is enough to show:
+
+- the category is coherent
+- the boundary architecture is defined
+- the proof vocabulary is stable across repos
+- consequence is not assumed by default
+- refusal, redirect, escalation, and replay are part of the design
+- public artifacts exist without exposing proprietary runtime logic
+- deeper implementation review belongs under NDA, pilot, or commercial agreement
+
+This is a public diligence surface, not a source-code release.
+
 ## Current public proof surfaces
 
 | Surface | Repository | Public Role |
