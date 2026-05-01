@@ -1,0 +1,34 @@
+{
+  "register": "Elyria Systems Boundary Proof Register",
+  "owner": "ELYRIA SYSTEMS-VA",
+  "authors": [
+    "Samantha Revita",
+    "Terry Snyder"
+  ],
+  "status": "public-proof-register",
+  "non_implementation": true,
+  "foundation_lineage": "VA / Veritas Aegis",
+  "public_surfaces": [
+    {
+      "name": "Elyria Systems — National Cyber Boundary System",
+      "repo": "https://github.com/Kamanaka5502/national-cyber-boundary",
+      "role": "critical-access boundary product corridor",
+      "public_safe": true
+    },
+    {
+      "name": "Elyria Systems — Resolving Kernel Showcase",
+      "repo": "https://github.com/Kamanaka5502/elyria-resolving-kernel-showcase",
+      "role": "invariant-ledger and replay proof showcase",
+      "public_safe": true
+    }
+  ],
+  "public_forbidden_material": [
+    "runtime implementation",
+    "decision engine code",
+    "evaluator internals",
+    "private thresholds",
+    "production adapters",
+    "customer-specific policies",
+    "signing infrastructure"
+  ]
+}
