@@ -32,6 +32,7 @@ This is a public diligence surface, not a source-code release.
 |---|---|---|
 | National Cyber Boundary | national-cyber-boundary | Critical-access boundary product corridor |
 | Resolving Kernel Showcase | elyria-resolving-kernel-showcase | Public proof substrate for invariant ledger, breach handling, field geometry, and replay |
+| Dual-Gate Showcase | elyria-dual-gate-showcase | Semantic integrity to execution-boundary proof surface connecting Gate A, Gate B, URK mapping, refusal, receipts, and replay |
 | Boundary Patterns | elyria-boundary-patterns | Buyer-facing boundary-pattern catalog for admissibility, authority, replay, standing, and refusal |
 | One Proof Walkthrough | elyria-one-proof | Deterministic single-path proof of boundary decision, receipt surface, and replay validation |
 
