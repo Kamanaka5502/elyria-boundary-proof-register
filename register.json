@@ -20,6 +20,12 @@
       "repo": "https://github.com/Kamanaka5502/elyria-resolving-kernel-showcase",
       "role": "invariant-ledger and replay proof showcase",
       "public_safe": true
+    },
+    {
+      "name": "Elyria Systems — Boundary Patterns",
+      "repo": "https://github.com/Kamanaka5502/elyria-boundary-patterns",
+      "role": "buyer-facing boundary-pattern catalog for admissibility, authority, replay, standing, refusal, and explicit continuation",
+      "public_safe": true
     }
   ],
   "public_forbidden_material": [
