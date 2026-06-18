@@ -6,6 +6,32 @@ This repository is the canonical index layer.
 
 It does not contain private runtime implementation, proprietary evaluators, production enforcement logic, or operational adapters.
 
+## Portfolio Map
+
+The canonical portfolio map is:
+
+```text
+PORTFOLIO_MAP.md
+```
+
+It classifies the repo estate into:
+
+```text
+Lane 1 — Core A+ Proof Surfaces
+Lane 2 — Buyer Runtime / Demo Surfaces
+Lane 3 — Vertical Boundary Corridors
+Lane 4 — Support Layers / Proof Bricks
+Lane 5 — Utility / Portfolio Tooling
+```
+
+Core portfolio invariant:
+
+```text
+Proof before operation.
+Claim boundary before promotion.
+No protected consequence binds without the boundary result.
+```
+
 ## Authority of this register
 
 This register controls the public presentation order for the Elyria product field.
@@ -87,6 +113,7 @@ This is a public diligence surface, not a source-code release.
 | Surface | Repository | Public Role | Root Mapping |
 |---|---|---|---|
 | Root Product Surface | elyria-consequence-boundary-infrastructure | Parent product category for consequence-boundary infrastructure | Root |
+| Portfolio Map | PORTFOLIO_MAP.md | Canonical lane map, grade target, claim, verifier path, proof/non-claim boundary | Register |
 | National Cyber Boundary | national-cyber-boundary | Critical-access boundary product corridor | Vertical corridor |
 | Clinical AI Boundary | elyria-clinical-ai-boundary | Clinical recommendation admissibility boundary | Vertical corridor |
 | Financial Motion Governance | elyria-financial-motion-governance | Financial motion and value-bearing action boundary | Vertical corridor |
